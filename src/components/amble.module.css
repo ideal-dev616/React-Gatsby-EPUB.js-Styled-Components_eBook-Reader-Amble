@@ -1,0 +1,67 @@
+.title {
+  color: black;
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-top: 50px;
+}
+.container {
+  margin: auto;
+  max-width: 1000px;
+  font-family: sans-serif;
+}
+.heading {
+  color: rebeccapurple;
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+.nav-link-item {
+  padding-right: 2rem;
+}
+.nav-link-text {
+  color: black;
+}
+
+.text-bold {
+  font-weight: 800;
+}
+
+.text-bold {
+  font-weight: 800;
+}
+
+.left{
+  margin-left: -100px;
+}
+
+
+.root {
+  width: 100%;
+  max-width: 360px;
+  background-color: rgb(234 234 234);
+  position: relative;
+  overflow: auto;
+  max-height: 300px;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.grid-root{
+  flex-grow: 1,
+}
+
+.list-section {
+  background-color: inherit;
+}
+
+.ul {
+  background-color: inherit;
+  padding: 0px;
+}
+
+.link {
+  margin: 2px 0 0 5px !important;
+  color: black !important ;
+}
